@@ -1,0 +1,5 @@
+selenium>=4.15
+webdriver-manager>=4.0
+pandas>=2.0
+openpyxl>=3.1
+pyinstaller>=6.0
